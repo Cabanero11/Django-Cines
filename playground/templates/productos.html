@@ -1,0 +1,11 @@
+{% extends "hi.html" %} 
+{% block content %}
+<h1>Productos Lista</h1>
+<ul>
+    {% for producto in productos %}
+    <li>
+        {{ producto.title}}: {% if producto.completado %} Completado {% else %} No completado {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endblock  %}

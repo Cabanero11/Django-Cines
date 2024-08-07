@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estrenos de Cine de Hoy</title>
+    {% load bootstrap5 %}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+</head>
+<body>
+<div class="container">
+    <h1>Estrenos de Cine de Hoy</h1>
+    <div class="row">
+        {% for titulo, data in estrenos.items %}
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="{{ data.foto_url }}" class="card-img-top" alt="{{ titulo }}">
+                <div class="card-body">
+                    <h5 class="card-title">Deadpool & Wolverine</h5>
+                    <p class="card-text"></p>
+                  </div>
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Cine ABC Elx: 
+                        <button type="button" class="btn btn-outline-primary">12:00</button>
+                        <button type="button" class="btn btn-outline-primary">15:00</button>
+                        <button type="button" class="btn btn-outline-primary">18:00</button>
+                    </li>
+                    <li class="list-group-item">Cine IMF Torrevieja:
+                        <button type="button" class="btn btn-outline-primary">11:00</button>
+                        <button type="button" class="btn btn-outline-primary">13:00</button>
+                        <button type="button" class="btn btn-outline-primary">15:00</button>    
+                    </li>
+                    <li class="list-group-item">Cine Axion Orihuela:
+                        <button type="button" class="btn btn-outline-primary">11:45</button>
+                        <button type="button" class="btn btn-outline-primary">13:45</button>
+                        <button type="button" class="btn btn-outline-primary">15:45</button>    
+                    </li>
+                  </ul>
+                  <div class="card-body">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</body>
+</html>
