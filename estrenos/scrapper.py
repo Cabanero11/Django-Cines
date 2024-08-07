@@ -1,34 +1,34 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
-
-# TODO: No funciona xd
-def obtener_estrenos_cine(url):
+def scrapeacion():
+    url = 'URL_DEL_CINE'  # Reemplaza con la URL real del cine
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    estrenos = []
-    for item in soup.select('.movie-list-item'):
-        titulo = item.select_one('.movie-title').get_text()
-        fecha = item.select_one('.release-date').get_text()
-        foto_url = item.select_one('.movie-poster')['src']
-        horarios = item.select_one('.showtimes').get_text(separator=', ')
-        estrenos.append({'titulo': titulo, 'fecha': fecha, 'foto_url': foto_url, 'horarios': horarios})
-    
-    return estrenos
+    movies = []
 
-# URLs de ejemplo
-url_cine1 = 'https://www.cinesabc.com'
-url_cine2 = 'https://example.com/cine2'
-url_cine3 = 'https://example.com/cine3'
+    # Suponiendo que la estructura HTML de la página contiene elementos div con la clase 'movie' para cada película
+    for movie_div in soup.find_all('div', class_='movie'):
+        title = movie_div.find('h2', class_='title').text
+        image_url = movie_div.find('img', class_='poster')['src']
+        schedules = {}
 
-estrenos_cine1 = obtener_estrenos_cine(url_cine1)
-estrenos_cine2 = obtener_estrenos_cine(url_cine2)
-estrenos_cine3 = obtener_estrenos_cine(url_cine3)
+        # Suponiendo que los horarios están dentro de divs con la clase 'schedules'
+        for schedule_div in movie_div.find_all('div', class_='schedule'):
+            cinema_name = schedule_div.find('h3', class_='cinema').text
+            times = [time.text for time in schedule_div.find_all('span', class_='time')]
+            schedules[cinema_name] = times
 
-# Combinando los datos
-estrenos_totales = {
-    'Cine ABC Elx': estrenos_cine1,
-    'Cine IMF Torrevieja': estrenos_cine2,
-    'Cine Axion Orihuela': estrenos_cine3,
-}
+        movies.append({
+            'title': title,
+            'image_url': image_url,
+            'schedules': schedules,
+        })
+
+    with open('movies.json', 'w', encoding='utf-8') as f:
+        json.dump(movies, f, ensure_ascii=False, indent=4)
+
+if __name__ == '__main__':
+    scrapeacion()
