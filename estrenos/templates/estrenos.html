@@ -11,6 +11,13 @@
 <body>
     <div class="container mt-4">
         <h1>Estrenos de Cine de Hoy</h1>
+
+        <!-- Barra de búsqueda -->
+        <form class="form-inline my-2 my-lg-0" method="get" action="{% url 'mostrar_estrenos' %}">
+            <input class="form-control mr-sm-2" type="search" name="search" placeholder="Buscar" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+        </form>
+        
         <div class="row">
             {% for titulo, data in estrenos.items %}
             <div class="col-md-4 mb-4">

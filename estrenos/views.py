@@ -16,7 +16,16 @@ def mostrar_estrenos(request):
         return HttpResponse("Archivo movies.json no encontrado", status=404)
     except json.JSONDecodeError:
         return HttpResponse("Error al decodificar el archivo JSON", status=500)
+    
+    # Obtener el término de búsqueda, si existe
+    query = request.GET.get('search', '').lower()
+
+    # Filtrar las películas según el término de búsqueda
+    filtered_movies = {}
+    for title, data in movies.items():
+        if query in title.lower():
+            filtered_movies[title] = data
 
     # Pasar los datos al template
-    return render(request, 'estrenos.html', {'estrenos': movies})
+    return render(request, 'estrenos.html', {'estrenos': filtered_movies})
         

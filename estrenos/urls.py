@@ -7,5 +7,5 @@ from . import views
 # En la otra carpeta urls.py
 urlpatterns = [
     # En el base
-    path('', views.mostrar_estrenos),
+    path('', views.mostrar_estrenos, name='mostrar_estrenos'),
 ]
