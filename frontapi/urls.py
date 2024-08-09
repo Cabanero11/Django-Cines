@@ -17,6 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from debug_toolbar.toolbar import debug_toolbar_urls
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -24,4 +25,4 @@ urlpatterns = [
     path('playground/', include('playground.urls')),
     # Base para estrenos
     path('', include('estrenos.urls')),
-] + debug_toolbar_urls()
+] + debug_toolbar_urls() + static('static', document_root='css/estrenos.css')

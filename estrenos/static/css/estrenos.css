@@ -1,0 +1,32 @@
+/* Hacer que las cartas sean responsivas */
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Efecto de transición al pasar el ratón por encima */
+.card-img-top:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Ajustar el tamaño de la fuente en la vista móvil */
+@media (max-width: 768px) {
+    .card-title {
+        font-size: 1.25rem;
+    }
+    .btn {
+        font-size: 0.875rem;
+    }
+}
+
+body {
+    background-color: aqua;
+}
