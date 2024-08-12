@@ -7,8 +7,6 @@ from selenium.webdriver.edge.options import Options
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from bs4 import BeautifulSoup
-import time
 
 # Configurar el logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -103,7 +101,7 @@ def scrape_cine_ABC_ELX():
     
     finally:
         driver.quit()
-        logging.info("Scraper terminado y navegador cerrado")
+        logging.info("Elche terminado")
 
 
 
@@ -171,7 +169,7 @@ def scrape_cine_torrevieja():
                 times = [time_element.text.strip() for time_element in time_elements]
 
                 logging.info(f"Añadida peli: {movie_title}")
-                
+
                 # Añadir los datos al JSON
                 movies[movie_title] = {
                     "image_url": image_url,
@@ -197,11 +195,11 @@ def scrape_cine_torrevieja():
 
     finally:
         driver.quit()
-        logging.info("Scraper terminado y navegador cerrado")
+        logging.info("Torrevieja terminado")
 
 
+# Ejecuta los 2 scrappers y avisa cuando acaban
 if __name__ == "__main__":
-    #scrape_cine_ABC_ELX()
-    # Probamos 1 a uno a ver
+    scrape_cine_ABC_ELX()
     scrape_cine_torrevieja()
-    logging.info('Scraping terminado !!!!')
+    logging.info('Scraping terminado 🤑 !!')
