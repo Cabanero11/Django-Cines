@@ -1,2 +1,4 @@
 # Django-Cines
-Pagina para mirar los 3 cines cerca mia y comparar horarios xd
+
+Pagina para mirar 2 cines cercanos mia y comparar horarios en ambos, asi como mirar las peliculas y acceder al ticket de compra.
+
