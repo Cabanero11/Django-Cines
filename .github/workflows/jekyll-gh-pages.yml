@@ -23,18 +23,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Install Chrome browser
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
+          google-chrome --version
+
+      # Version python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # Purque da error :(
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scrapper script
-        run: python estrenos/scrapper.py
+      - name: Run headless scrapper script
+        run: python estrenos/headless_scrapper.py
 
       - name: Run combine JSONs script
         run: python estrenos/combinar_jsons.py
