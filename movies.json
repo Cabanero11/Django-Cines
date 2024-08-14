@@ -6,7 +6,7 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "",
+                        "time": "20:00",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/spider-man-3/52706/"
                     }
                 ]
@@ -20,11 +20,11 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "",
+                        "time": "16:00",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/52489/"
                     },
                     {
-                        "time": "",
+                        "time": "18:10",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/52671/"
                     },
                     {
@@ -83,6 +83,15 @@
             }
         ]
     },
+    "STREE 2 - V.O.S.I.": {
+        "image_url": "https://www.cinesabc.com/files/stree_hlvehtnq.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
     "UN LUGAR COMÚN": {
         "image_url": "https://www.cinesabc.com/files/lugar_oximc8m2.jpg",
         "cinemas": [
@@ -126,15 +135,6 @@
     },
     "ALIEN ROMULUS- CICLO DE TERROR": {
         "image_url": "https://www.cinesabc.com/files/alien_bueno_v94p28sq.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "BITELCHÚS BITELCHÚS": {
-        "image_url": "https://www.cinesabc.com/files/bitelchus_bueno_c8tdbwkx.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -325,6 +325,15 @@
     },
     "HOY ELIJO YO": {
         "image_url": "https://www.cinesabc.com/files/cartel_hoy_elijo_yo3_yus4sr47.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "JOKER: FOLIE À DEUX": {
+        "image_url": "https://www.cinesabc.com/files/joker_v5jhz47d.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
