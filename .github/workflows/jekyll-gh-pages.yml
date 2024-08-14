@@ -10,8 +10,9 @@ on:
     - cron: "0 0 * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
+  actions: read
   id-token: write
 
 concurrency:
@@ -53,16 +54,15 @@ jobs:
         run: python estrenos/combinar_jsons.py
 
       - name: Commit updated data
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
-          git checkout "${GITHUB_REF:11}"
-          git add .
-          git commit -m "Automated report" || echo "No changes to commit"
-          git push
-        env:
-          TOKEN: ${{ secrets.TOKEN }}
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
+        git add .
+        git commit -m "Automated report" || echo "No changes to commit"
+        git push
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
 
   build-and-deploy:
     needs: update-data
