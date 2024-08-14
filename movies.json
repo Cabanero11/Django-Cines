@@ -6,7 +6,7 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "20:00",
+                        "time": "",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/spider-man-3/52706/"
                     }
                 ]
@@ -20,11 +20,11 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
+                        "time": "",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/52489/"
                     },
                     {
-                        "time": "18:10",
+                        "time": "",
                         "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/52671/"
                     },
                     {
