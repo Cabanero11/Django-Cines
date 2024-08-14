@@ -12,7 +12,7 @@ on:
 permissions:
   contents: write
   pages: write
-  actions: read
+  actions: write
   id-token: write
 
 concurrency:
