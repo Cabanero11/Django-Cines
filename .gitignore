@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Google Chrome 104 MB off
+google-chrome-stable_current_amd64.deb
+
 # C extensions
 *.so
 
