@@ -1,0 +1,139 @@
+/* Asegúrate de que las cards tengan el mismo tamaño y se distribuyan correctamente */
+.card {
+    background-color: #393E46;
+    color: #EEEEEE;
+    margin: 10px; /* Ajusta el espacio entre las cards */
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Transición de sombra y transformación */
+    align-items: center;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #00ADB5; /* Acentuar el título */
+}
+
+.btn {
+    background-color: #00ADB5;
+    border-color: #00ADB5;
+    color: #222831;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #EEEEEE;
+    color: #00ADB5;
+}
+
+/* Ajusta el tamaño de las imágenes para que todas las cards sean consistentes */
+.card-img-top {
+    width: 100%;
+    height: 200px; /* Altura fija para mantener la coherencia */
+    object-fit: cover; /* Mantiene la proporción de la imagen y cubre el área asignada */
+}
+
+/* Controlar la altura del cuerpo de la card para alinear contenido */
+.card-body {
+    background-color: #00ADB5 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.search-input {
+    background: #EEEEEE;
+}
+
+body {
+    background-color: #2E3A3F; /* Fondo menos contrastante */
+    color: #EEEEEE;
+    font-family: 'Roboto', Arial, sans-serif; /* Cambiada a Roboto */
+}
+
+.container .card {
+    color: #EEEEEE !important;
+    margin: 10px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    align-items: center;
+}
+
+.container .card-title {
+    font-size: 1.45rem;
+    text-align: center;
+    color: #EEEEEE !important;
+}
+
+.list-group-item {
+    border-color: #00ADB5;
+}
+
+.container .btn {
+    background-color: #ffffff !important;
+    border-color: #00ADB5 !important;
+    border-width: 0.1em;
+    color: #222831 !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 1px 5px 5px 1px;
+}
+
+.container .btn:hover {
+    background-color: #DDDDDD !important;
+    color: #00ADB5 !important;
+}
+
+.card-img-top:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Efecto de hover más pronunciado */
+    transition: box-shadow 0.3s ease, transform 0.3s ease; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+/* Media queries para el diseño responsivo */
+@media (min-width: 1600px) { /* A partir de pantallas extra grandes */
+    .card {
+        flex: 1 1 calc(25% - 25px); /* 5 cards en una fila */
+        max-width: calc(100% - 50px); /* Evita que las cards se estiren demasiado */
+    }
+}
+
+/* 100 % de vista*/
+@media (min-width: 1200px) and (max-width: 1599px) { /* Pantallas grandes */
+    .card {
+        flex: 1 1 calc(25% - 20px); /* 4 cards en una fila */
+        max-width: calc(95% - 10px); /* Evita que las cards se estiren demasiado */
+    }
+}
+
+@media (min-width: 990px) and (max-width: 1199px) { /* Pantallas medianas */
+    .card {
+        flex: 1 1 calc(80.333% - 10px); /* 3 cards en una fila */
+        max-width: calc(120.666% - 10px); /* Ajustar el máximo ancho */
+    }
+}
+
+@media (min-width: 768px) and (max-width: 989px) { /* Pantallas pequeñas */
+    .card {
+        flex: 1 1 calc(50% - 10px); /* 2 cards en una fila */
+        max-width: calc(2000% - 20px); /* Ajustar el máximo ancho */
+    }
+}
+
+@media (max-width: 767px) { /* Pantallas muy pequeñas */
+    .card {
+        flex: 1 1 100%; /* 1 card en una fila */
+        max-width: 100%; /* Ajustar el máximo ancho */
+        max-height: 50%;
+    }
+
+    .card-body {
+        max-width: 100%; 
+        max-height: 50%;
+    }
+    
+    .card-title {
+        font-size: 1.25rem;
+    }
+    
+    .btn {
+        font-size: 0.875rem;
+    }
+}
