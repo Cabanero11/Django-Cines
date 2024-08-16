@@ -1,0 +1,7 @@
+# Configuración de compresión SCSS (opcional si no usas SCSS)
+sass:
+  style: compressed
+
+# Excluir el archivo `style.scss` si no existe o no se necesita
+exclude:
+  - "assets/css/style.scss"
