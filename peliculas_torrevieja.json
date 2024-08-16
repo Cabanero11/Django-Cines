@@ -1,13 +1,4 @@
 {
-    "Spider-Man 2": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_1e9836ac740b0366301e9d49fa5d796a.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Alien: Romulus": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_bf4aa38c3a63cfbcfc563b1db6b9cebe.jpg",
         "cinemas": [
