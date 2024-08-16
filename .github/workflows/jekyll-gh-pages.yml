@@ -87,25 +87,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-  handle-pr:
-    if: github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
-
-      - name: Create report file
-        run: date +%s > report.txt
-
-      - name: Commit report
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
-          git add report.txt
-          git commit -m "Automated report" || echo "No changes to commit"
-          git push
-        env:
-          TOKEN: ${{ secrets.TOKEN }}
