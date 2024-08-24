@@ -21,15 +21,6 @@
             }
         ]
     },
-    "Spider-Man 3": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_78e9a69120d103565145c294a9158a1f.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "MaXXXine": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_5b6ddff35604f6745f2f1aaaaa1843ad.jpg",
         "cinemas": [
@@ -103,7 +94,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "(VO: 18:00)",
+                        "time": "(English: 18:00)",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
@@ -168,15 +159,6 @@
             }
         ]
     },
-    "Longlegs": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_d8f2ff27d239fa09c7d2372fbf966641.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Padre no hay más que uno 4: Campanas de boda": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_15108ccc077217936500c3b97b33f909.jpg",
         "cinemas": [
@@ -188,15 +170,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Del revés 2": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_0b17d613652181bf2a1e1c83a2f12735.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
