@@ -6,6 +6,10 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
+                        "time": "(VO: 17:30)",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
                         "time": "17:45",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
@@ -93,10 +97,6 @@
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
-                    {
-                        "time": "(English: 18:00)",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
                     {
                         "time": "17:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
