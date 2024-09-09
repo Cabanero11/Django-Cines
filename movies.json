@@ -6,12 +6,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "11:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/the-amazing-spider-man/53839/"
-                    },
-                    {
                         "time": "19:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/the-amazing-spider-man/53663/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/the-amazing-spider-man/53703/"
                     }
                 ]
             }
@@ -33,24 +29,20 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53834/"
-                    },
-                    {
                         "time": "16:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53226/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53230/"
                     },
                     {
                         "time": "18:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53227/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53231/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53228/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53232/"
                     },
                     {
                         "time": "22:35",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53229/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53233/"
                     }
                 ]
             }
@@ -63,16 +55,12 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53835/"
-                    },
-                    {
                         "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53644/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53684/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53645/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53685/"
                     }
                 ]
             }
@@ -86,11 +74,11 @@
                 "times": [
                     {
                         "time": "17:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53661/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53701/"
                     },
                     {
                         "time": "22:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53662/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53702/"
                     }
                 ]
             }
@@ -101,7 +89,12 @@
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
-                "times": []
+                "times": [
+                    {
+                        "time": "20:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/luz-del-86/53690/"
+                    }
+                ]
             }
         ]
     },
@@ -112,27 +105,14 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mi-amigo-el-pinguino/53840/"
-                    },
-                    {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mi-amigo-el-pinguino/53665/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mi-amigo-el-pinguino/53705/"
                     },
                     {
                         "time": "17:55",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mi-amigo-el-pinguino/53666/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mi-amigo-el-pinguino/53706/"
                     }
                 ]
-            }
-        ]
-    },
-    "NO HABLES CON EXTRAÑOS": {
-        "image_url": "https://www.cinesabc.com/files/no_hables_sabado_af2fkhne.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
             }
         ]
     },
@@ -144,7 +124,7 @@
                 "times": [
                     {
                         "time": "20:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nueva-tierra/53646/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nueva-tierra/53686/"
                     }
                 ]
             }
@@ -158,7 +138,7 @@
                 "times": [
                     {
                         "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/10-vidas/53633/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/10-vidas/53673/"
                     }
                 ]
             }
@@ -172,19 +152,19 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53667/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53707/"
                     },
                     {
                         "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53668/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53708/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53669/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53709/"
                     },
                     {
                         "time": "22:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53670/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53710/"
                     }
                 ]
             }
@@ -215,12 +195,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/buffalo-kids/53832/"
-                    },
-                    {
                         "time": "17:55",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/buffalo-kids/53638/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/buffalo-kids/53678/"
                     }
                 ]
             }
@@ -234,7 +210,7 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/cuerpo-escombro/53660/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/cuerpo-escombro/53700/"
                     }
                 ]
             }
@@ -247,20 +223,16 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "11:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53838/"
-                    },
-                    {
                         "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53655/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53695/"
                     },
                     {
                         "time": "20:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53631/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53671/"
                     },
                     {
                         "time": "22:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53632/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53672/"
                     }
                 ]
             }
@@ -273,12 +245,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/del-reves-2-inside-out-2/53831/"
-                    },
-                    {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/del-reves-2-inside-out-2/53635/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/del-reves-2-inside-out-2/53675/"
                     }
                 ]
             }
@@ -292,7 +260,7 @@
                 "times": [
                     {
                         "time": "22:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/diabolica/53664/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/diabolica/53704/"
                     }
                 ]
             }
@@ -306,7 +274,7 @@
                 "times": [
                     {
                         "time": "19:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-conde-de-montecristo/53659/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-conde-de-montecristo/53699/"
                     }
                 ]
             }
@@ -320,15 +288,15 @@
                 "times": [
                     {
                         "time": "16:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53634/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53674/"
                     },
                     {
                         "time": "20:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53653/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53693/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53654/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/53694/"
                     }
                 ]
             }
@@ -360,7 +328,7 @@
                 "times": [
                     {
                         "time": "18:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-mayordomo-ingles/53652/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-mayordomo-ingles/53692/"
                     }
                 ]
             }
@@ -391,16 +359,12 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53836/"
-                    },
-                    {
                         "time": "16:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53647/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53687/"
                     },
                     {
                         "time": "18:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53648/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53688/"
                     }
                 ]
             }
@@ -414,7 +378,7 @@
                 "times": [
                     {
                         "time": "16:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/heroes-de-central-park/53658/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/heroes-de-central-park/53698/"
                     }
                 ]
             }
@@ -455,7 +419,7 @@
                 "times": [
                     {
                         "time": "22:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-trampa/53650/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-trampa/53689/"
                     }
                 ]
             }
@@ -469,7 +433,7 @@
                 "times": [
                     {
                         "time": "22:35",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/longlegs/53656/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/longlegs/53696/"
                     }
                 ]
             }
@@ -491,24 +455,20 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53833/"
-                    },
-                    {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53643/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53683/"
                     },
                     {
                         "time": "18:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53640/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53680/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53641/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53681/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53642/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53682/"
                     }
                 ]
             }
@@ -521,16 +481,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "12:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53837/"
-                    },
-                    {
                         "time": "16:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53651/"
-                    },
-                    {
-                        "time": "20:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53649/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53691/"
                     }
                 ]
             }
@@ -544,7 +496,7 @@
                 "times": [
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/parpadea-dos-veces/53657/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/parpadea-dos-veces/53697/"
                     }
                 ]
             }
@@ -593,20 +545,16 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "11:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53841/"
-                    },
-                    {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53639/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53679/"
                     },
                     {
                         "time": "19:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53636/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53676/"
                     },
                     {
                         "time": "22:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53637/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53677/"
                     }
                 ]
             }
