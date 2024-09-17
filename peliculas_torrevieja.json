@@ -1,13 +1,4 @@
 {
-    "Ardaas Sarbat De Bhalle Di": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_678dadb782401a6efcb95573d4c7f22e.png",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Capitán Avispa": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_8f9df44f981e13c66eded1930012352c.jpg",
         "cinemas": [
@@ -33,15 +24,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Transformers One": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_34c628c3df4b705b0cc058c9500e156f.png",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },

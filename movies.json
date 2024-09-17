@@ -7,7 +7,7 @@
                 "times": [
                     {
                         "time": "20:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/the-amazing-spider-man-2-el-poder-de-electro/53979/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/the-amazing-spider-man-2-el-poder-de-electro/53980/"
                     }
                 ]
             }
@@ -39,7 +39,7 @@
                 "times": [
                     {
                         "time": "18:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-teorema-de-marguerite/54024/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-teorema-de-marguerite/54025/"
                     }
                 ]
             }
@@ -53,15 +53,15 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53982/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53985/"
                     },
                     {
                         "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53983/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53986/"
                     },
                     {
                         "time": "22:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53984/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/hotel-bitcoin/53987/"
                     }
                 ]
             }
@@ -75,15 +75,15 @@
                 "times": [
                     {
                         "time": "16:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54015/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54018/"
                     },
                     {
                         "time": "20:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54016/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54019/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54017/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/justicia-artificial/54020/"
                     }
                 ]
             }
@@ -106,19 +106,19 @@
                 "times": [
                     {
                         "time": "16:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53919/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53923/"
                     },
                     {
                         "time": "18:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53920/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53924/"
                     },
                     {
                         "time": "20:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53921/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53925/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53922/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/no-hables-con-extranos/53926/"
                     }
                 ]
             }
@@ -132,23 +132,32 @@
                 "times": [
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/os-reviento/53961/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/os-reviento/53962/"
                     }
                 ]
             }
         ]
     },
     "SIDONIE EN JAPÓN": {
-        "image_url": "https://www.cinesabc.com/files/sidonie_l8rvopmo.jpg",
+        "image_url": "https://www.cinesabc.com/files/sidonie_xm2wg954.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sidonie-en-japon/53964/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sidonie-en-japon/53965/"
                     }
                 ]
+            }
+        ]
+    },
+    "SIDONIE EN JAPÓN - V.O.S.E.-": {
+        "image_url": "https://www.cinesabc.com/files/sidonie_vose%20(1)_st51itzg.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
             }
         ]
     },
@@ -166,15 +175,6 @@
             }
         ]
     },
-    "TRANSFORMERS ONE": {
-        "image_url": "https://www.cinesabc.com/files/transformers_8g7likaf.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
     "UN DESASTRE ES PARA SIEMPRE": {
         "image_url": "https://www.cinesabc.com/files/desastre_7tcfisb7.jpg",
         "cinemas": [
@@ -183,11 +183,11 @@
                 "times": [
                     {
                         "time": "18:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/un-desastre-es-para-siempre/53997/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/un-desastre-es-para-siempre/53999/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/un-desastre-es-para-siempre/53998/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/un-desastre-es-para-siempre/54000/"
                     }
                 ]
             }
@@ -201,11 +201,11 @@
                 "times": [
                     {
                         "time": "16:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/zak-y-wowo-la-leyenda-de-los-lendarys/53949/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/zak-y-wowo-la-leyenda-de-los-lendarys/53951/"
                     },
                     {
                         "time": "17:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/zak-y-wowo-la-leyenda-de-los-lendarys/53950/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/zak-y-wowo-la-leyenda-de-los-lendarys/53952/"
                     }
                 ]
             }
@@ -219,7 +219,7 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/10-vidas/54009/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/10-vidas/54010/"
                     }
                 ]
             }
@@ -233,15 +233,15 @@
                 "times": [
                     {
                         "time": "16:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53991/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53993/"
                     },
                     {
                         "time": "20:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53992/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53994/"
                     },
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53898/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/alien-romulus/53899/"
                     }
                 ]
             }
@@ -255,19 +255,19 @@
                 "times": [
                     {
                         "time": "16:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53931/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53935/"
                     },
                     {
                         "time": "18:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53932/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53936/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53933/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53937/"
                     },
                     {
                         "time": "22:35",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53934/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bitelchus-bitelchus/53938/"
                     }
                 ]
             }
@@ -281,7 +281,7 @@
                 "times": [
                     {
                         "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/buffalo-kids/53913/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/buffalo-kids/53914/"
                     }
                 ]
             }
@@ -295,15 +295,15 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53955/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/53956/"
                     },
                     {
                         "time": "17:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/54003/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/54005/"
                     },
                     {
                         "time": "22:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/54004/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/deadpool-y-lobezno/54006/"
                     }
                 ]
             }
@@ -326,7 +326,7 @@
                 "times": [
                     {
                         "time": "18:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53976/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-47-marcel-barrena/53977/"
                     }
                 ]
             }
@@ -340,7 +340,7 @@
                 "times": [
                     {
                         "time": "21:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-conde-de-montecristo/53943/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-conde-de-montecristo/53944/"
                     }
                 ]
             }
@@ -354,7 +354,7 @@
                 "times": [
                     {
                         "time": "20:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/54012/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-cuervo/54013/"
                     }
                 ]
             }
@@ -413,7 +413,7 @@
                 "times": [
                     {
                         "time": "19:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53946/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/estacion-rocafort/53947/"
                     }
                 ]
             }
@@ -436,7 +436,7 @@
                 "times": [
                     {
                         "time": "18:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53958/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gru-4-mi-villano-favorito/53959/"
                     }
                 ]
             }
@@ -499,7 +499,7 @@
                 "times": [
                     {
                         "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/longlegs/53970/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/longlegs/53971/"
                     }
                 ]
             }
@@ -545,15 +545,15 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53916/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53917/"
                     },
                     {
                         "time": "18:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53901/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53903/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53902/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/odio-el-verano/53904/"
                     }
                 ]
             }
@@ -567,7 +567,7 @@
                 "times": [
                     {
                         "time": "16:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53967/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/padre-no-hay-mas-que-uno-4-campanas-de-boda/53968/"
                     }
                 ]
             }
@@ -581,7 +581,7 @@
                 "times": [
                     {
                         "time": "20:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/parpadea-dos-veces/53973/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/parpadea-dos-veces/53974/"
                     }
                 ]
             }
@@ -613,15 +613,15 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53895/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53896/"
                     },
                     {
                         "time": "19:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53907/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53909/"
                     },
                     {
                         "time": "22:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53908/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/romper-el-circulo/53910/"
                     }
                 ]
             }
