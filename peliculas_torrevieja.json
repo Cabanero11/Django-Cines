@@ -18,7 +18,12 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": []
+                "times": [
+                    {
+                        "time": "VO INDIA: 21:45",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
             }
         ]
     },
@@ -66,15 +71,6 @@
             }
         ]
     },
-    "Capitán Avispa": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_8f9df44f981e13c66eded1930012352c.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Justicia Artificial": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_eb4a65a8296f2481084d35ffc1dedf69.jpg",
         "cinemas": [
@@ -106,15 +102,6 @@
             }
         ]
     },
-    "The Amazing Spider-Man 2: El poder de Electro": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_52d289f7cbb972e868995c8539ea1148.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Hotel Bitcoin": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_f291abc541cc510ce327bf884a1b690f.jpg",
         "cinemas": [
@@ -126,15 +113,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "El 47": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_5efc6c176dbcc135aab64f8de3cf6210.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -157,24 +135,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Mi amigo el pingüino": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_c556b98d511f7e0e692bd57af9938092.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Parpadea dos veces": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_7d7330ad4cc8921b7f84f45321ed07de.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -218,15 +178,6 @@
             }
         ]
     },
-    "Alien: Romulus": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_bf4aa38c3a63cfbcfc563b1db6b9cebe.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Buffalo Kids": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_85d3745a348587e41d671c40a6a8943d.jpg",
         "cinemas": [
@@ -252,15 +203,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Padre no hay más que uno 4: Campanas de boda": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_15108ccc077217936500c3b97b33f909.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
