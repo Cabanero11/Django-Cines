@@ -6,19 +6,14 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
+                        "time": "19:45",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
                         "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Spider-Man: Homecoming": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_8b6b803940fe136da4c46a3ef723e614.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -83,15 +78,6 @@
             }
         ]
     },
-    "Emmanuelle": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_28e0b648a1daf0cecabb9b47e578e890.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "El hombre del saco": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_2b5e55bbe702fb078244a6feb02c3292.jpg",
         "cinemas": [
@@ -139,15 +125,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Juega o muere": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_5ab2a7930d5a49dc480763bd834a7e61.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -226,24 +203,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Romper el círculo": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_73f85a47287ece43d8bed5455ac84c06.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Deadpool y Lobezno": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_1d8f56cb00c0feb9d495f20f586edd47.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
