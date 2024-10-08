@@ -17,15 +17,6 @@
             }
         ]
     },
-    "Robot salvaje": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_cdda394052f6c8d835ac2f40579a33fd.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Alas blancas": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_c815a7b22ac8a50a25fc852bd82aa468.jpg",
         "cinemas": [
