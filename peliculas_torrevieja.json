@@ -1,4 +1,13 @@
 {
+    "Super/Man: La historia de Christopher Reeve": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_9e45228635a5143d01930557ae267854.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": []
+            }
+        ]
+    },
     "La virgen roja": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_8f3b65e661fee79f1f94ec6c30dc8b4b.jpg",
         "cinemas": [
