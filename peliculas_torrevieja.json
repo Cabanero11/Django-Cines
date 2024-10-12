@@ -174,24 +174,6 @@
             }
         ]
     },
-    "Puntos suspensivos": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_4ffb12e107b8047cf73f1828b99a4127.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Transformers One": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_34c628c3df4b705b0cc058c9500e156f.png",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "No hables con extraños": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_f4180047d8a66517c111167f09b8207f.jpg",
         "cinemas": [
@@ -224,15 +206,6 @@
             }
         ]
     },
-    "Odio el verano": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_2a559b91e1b62427f8bda16822121577.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Buffalo Kids": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_85d3745a348587e41d671c40a6a8943d.jpg",
         "cinemas": [
@@ -244,15 +217,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Gru 4: Mi villano favorito": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_768fbce8a1c901ab435ca0ad45cbffa9.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     }
