@@ -4,9 +4,58 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
+                "times": []
+            }
+        ]
+    },
+    "Shin Chan: El superhéroe": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_670bd625ca66febd115b0d7d6b1f9cf8.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "18:00",
+                        "time": "17:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "Spider-Man: No Way Home": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_e9158479f6b296609a2337ec42312774.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "22:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "La habitación de al lado": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_fba0bbc44d869c82e6824e5dd11b8c27.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "(VO: 17:30)",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "17:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "19:45",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -18,12 +67,7 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "21:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
+                "times": []
             }
         ]
     },
@@ -32,36 +76,26 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "(VO: 17:30)",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
-            }
-        ]
-    },
-    "La virgen roja": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_8f3b65e661fee79f1f94ec6c30dc8b4b.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
                 "times": []
             }
         ]
     },
-    "Venom: El último baile (Preventa Activa)": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_429c38edf86d5b4329c353ab22f55aff.jpg",
+    "Smile 2": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_160c2b0cbcc18d50b4fa1fcffd3793a9.jpg",
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "Pre",
+                        "time": "17:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "Venta",
+                        "time": "19:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -97,35 +131,26 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "(VO: 18:00)",
+                        "time": "(VO: 17:30)",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "(3D: 20:15)",
+                        "time": "17:45",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "17:30",
+                        "time": "19:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "19:30",
+                        "time": "20:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "21:45",
+                        "time": "21:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Alas blancas": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_c815a7b22ac8a50a25fc852bd82aa468.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -144,11 +169,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "20:15",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:15",
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -162,7 +183,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "22:15",
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -174,16 +195,7 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "17:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:45",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
+                "times": []
             }
         ]
     },
@@ -208,23 +220,10 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:30",
+                        "time": "20:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Buffalo Kids": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_85d3745a348587e41d671c40a6a8943d.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     }
