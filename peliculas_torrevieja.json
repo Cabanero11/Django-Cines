@@ -1,13 +1,4 @@
 {
-    "Maratón Smile 1 y 2": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_b4bfaf7d388a737e54c40c0f8e02eb65.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Shin Chan: El superhéroe": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_670bd625ca66febd115b0d7d6b1f9cf8.jpg",
         "cinemas": [
@@ -59,24 +50,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Spider-Man: Lejos de casa": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_182b204308b580ebd0ec58e2a956fd2f.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Super/Man: La historia de Christopher Reeve": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_9e45228635a5143d01930557ae267854.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -187,15 +160,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Soy Nevenka": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_4cf7fe022e180f78dfbe5b50421006da.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
