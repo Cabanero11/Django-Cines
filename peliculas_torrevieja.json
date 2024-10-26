@@ -21,15 +21,6 @@
             }
         ]
     },
-    "Shin Chan: El superhéroe": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_670bd625ca66febd115b0d7d6b1f9cf8.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "La habitación de al lado": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_fba0bbc44d869c82e6824e5dd11b8c27.jpg",
         "cinemas": [
@@ -163,24 +154,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "El hombre del saco": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_2b5e55bbe702fb078244a6feb02c3292.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "No hables con extraños": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_f4180047d8a66517c111167f09b8207f.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
