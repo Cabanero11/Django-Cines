@@ -1,4 +1,26 @@
 {
+    "Yo no soy esa": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_d2b99ce0bc1dd04325c621d29c507870.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "18:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "20:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "22:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
     "Bhool Bhulaiyaa 3 (VO INDIA)": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_da16f1a8091c872270b69e8ade1525f4.jpg",
         "cinemas": [
@@ -60,28 +82,6 @@
                 "times": [
                     {
                         "time": "19:15",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
-            }
-        ]
-    },
-    "Yo no soy esa": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_d2b99ce0bc1dd04325c621d29c507870.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "18:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "20:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
@@ -200,15 +200,6 @@
             }
         ]
     },
-    "Joker: Folie à Deux": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_0ac769eb23f8d94b8f8d9fa31bab17b5.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Soy Nevenka": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_4cf7fe022e180f78dfbe5b50421006da.jpg",
         "cinemas": [
@@ -220,15 +211,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Bitelchús Bitelchús": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_bae060755004c3f03dec829cb883dfb5.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     }
