@@ -1,4 +1,22 @@
 {
+    "Harold y el lápiz mágico": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_3e83c56a7275f992929e08988142c186.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "17:45",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "19:45",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
     "Yo no soy esa": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_d2b99ce0bc1dd04325c621d29c507870.jpg",
         "cinemas": [
@@ -76,7 +94,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "22:00",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -133,24 +151,6 @@
             }
         ]
     },
-    "El llanto": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_7e84badbe5c5ed2fc642c00be8f1f565.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "La habitación de al lado": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_fba0bbc44d869c82e6824e5dd11b8c27.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Venom: El último baile": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_429c38edf86d5b4329c353ab22f55aff.jpg",
         "cinemas": [
@@ -166,7 +166,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "22:00",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -180,7 +180,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "22:00",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -209,33 +209,6 @@
                 "times": [
                     {
                         "time": "17:45",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
-            }
-        ]
-    },
-    "Soy Nevenka": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_4cf7fe022e180f78dfbe5b50421006da.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Harold y el lápiz mágico": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_3e83c56a7275f992929e08988142c186.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "17:45",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:45",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
