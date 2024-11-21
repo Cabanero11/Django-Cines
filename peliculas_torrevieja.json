@@ -18,9 +18,22 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
+                "times": []
+            }
+        ]
+    },
+    "Wicked": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_309ce9947bf2b967e411ff292a32974f.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "20:30",
+                        "time": "Pre",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "Venta",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -133,6 +146,10 @@
                     },
                     {
                         "time": "20:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "21:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
