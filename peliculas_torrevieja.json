@@ -110,6 +110,24 @@
             }
         ]
     },
+    "Vaiana 2": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_5f0b8ec3bf84bb343564ec531e3560e7.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "Pre",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "Venta",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
     "Gladiator II": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_e170d3b47f66a6bbc5d5b8c10e892d06.jpg",
         "cinemas": [
