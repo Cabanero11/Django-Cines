@@ -35,15 +35,6 @@
             }
         ]
     },
-    "Raqa": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_b336219e98760ca9b925ac55ffdc6b5e.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Wicked": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_309ce9947bf2b967e411ff292a32974f.jpg",
         "cinemas": [
@@ -85,24 +76,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Jurado Nº 2": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_ef16e9b994c5febe086fd5e1396d6e86.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
-    "Terrifier 3": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_50574f85bec055a2edc061c5aa4895e5.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
