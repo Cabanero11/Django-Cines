@@ -1,17 +1,25 @@
 {
-    "BIRD": {
-        "image_url": "https://www.cinesabc.com/files/bird_s7qth4lq.jpg",
+    "AL OTRO BARRIO": {
+        "image_url": "https://www.cinesabc.com/files/barrio_2abd34kk.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bird/57395/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/al-otro-barrio/57567/"
+                    },
+                    {
+                        "time": "18:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/al-otro-barrio/57560/"
                     },
                     {
                         "time": "20:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/bird/57377/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/al-otro-barrio/57582/"
+                    },
+                    {
+                        "time": "22:35",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/al-otro-barrio/57583/"
                     }
                 ]
             }
@@ -19,174 +27,6 @@
     },
     "CUESTIÓN DE PRINCIPIOS": {
         "image_url": "https://www.cinesabc.com/files/cuestion_7776e9s2.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "DESMONTANDO A LUCÍA": {
-        "image_url": "https://www.cinesabc.com/files/desmontando_1x5jgru4.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "20:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/desmontando-a-lucia/57514/"
-                    },
-                    {
-                        "time": "22:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/desmontando-a-lucia/57515/"
-                    }
-                ]
-            }
-        ]
-    },
-    "EL MINISTRO DE PROPAGANDA": {
-        "image_url": "https://www.cinesabc.com/files/ministro_2dews36l.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "20:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-ministro-de-propaganda/57401/"
-                    }
-                ]
-            }
-        ]
-    },
-    "PIDEME LO QUE QUIERAS": {
-        "image_url": "https://www.cinesabc.com/files/pideme_bueno_hmfm4zu2.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57464/"
-                    },
-                    {
-                        "time": "18:10",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57465/"
-                    },
-                    {
-                        "time": "20:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57466/"
-                    },
-                    {
-                        "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57467/"
-                    }
-                ]
-            }
-        ]
-    },
-    "SANTIAGO: UN CAMINO ESPIRITUAL": {
-        "image_url": "https://www.cinesabc.com/files/santiago_jl8rs3kl.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/santiago-un-camino-espiritual/57425/"
-                    }
-                ]
-            }
-        ]
-    },
-    "UN VIAJE EN PRIMAVERA": {
-        "image_url": "https://www.cinesabc.com/files/viaje_primavera_8vlprhlz.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "VAIANA 2": {
-        "image_url": "https://www.cinesabc.com/files/vaiana_4dxagq06.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57491/"
-                    },
-                    {
-                        "time": "16:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57332/"
-                    },
-                    {
-                        "time": "17:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57292/"
-                    },
-                    {
-                        "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57473/"
-                    },
-                    {
-                        "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57333/"
-                    },
-                    {
-                        "time": "19:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57293/"
-                    },
-                    {
-                        "time": "20:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57334/"
-                    },
-                    {
-                        "time": "22:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57335/"
-                    }
-                ]
-            }
-        ]
-    },
-    "WINNIE THE POOH: EL BOSQUE SANGRIENTO": {
-        "image_url": "https://www.cinesabc.com/files/winnie_kcp1b7xf.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "20:55",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/winnie-the-pooh-2-el-bosque-sangriento/57304/"
-                    },
-                    {
-                        "time": "22:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/winnie-the-pooh-2-el-bosque-sangriento/57305/"
-                    }
-                ]
-            }
-        ]
-    },
-    "AMAL": {
-        "image_url": "https://www.cinesabc.com/files/amal_rosebud_zo19y1wj.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "AMAL - V.O.S.E.- CLUB ROSEBUD": {
-        "image_url": "https://www.cinesabc.com/files/amal_rosebud_m3fsww3b.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "EL SEÑOR DE LOS ANILLOS: LA GUERRA DE LOS ROHIRRIM - V.O.S.E.-": {
-        "image_url": "https://www.cinesabc.com/files/senor_anillos_9ksabjpn.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -216,22 +56,52 @@
             }
         ]
     },
-    "EL VIGILANTE NOCTURNO: DEMONIOS HEREDADOS": {
-        "image_url": "https://www.cinesabc.com/files/vigilante_bkljjzo0.jpg",
+    "EMILIA PÉREZ": {
+        "image_url": "https://www.cinesabc.com/files/emilia_9gzgf3t3.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "22:40",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-vigilante-nocturno-demonios-heredados/57443/"
+                        "time": "19:40",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/emilia-perez/57569/"
+                    },
+                    {
+                        "time": "22:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/emilia-perez/57570/"
                     }
                 ]
             }
         ]
     },
-    "ELLI Y EL EQUIPO DE MONSTRUOS": {
-        "image_url": "https://www.cinesabc.com/files/elli_ntl1xn8w.jpg",
+    "HERE (AQUÍ)": {
+        "image_url": "https://www.cinesabc.com/files/here_aqui_6rp3k5mk.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "16:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/here-aqui/57575/"
+                    },
+                    {
+                        "time": "18:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/here-aqui/57577/"
+                    },
+                    {
+                        "time": "20:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/here-aqui/57578/"
+                    },
+                    {
+                        "time": "22:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/here-aqui/57579/"
+                    }
+                ]
+            }
+        ]
+    },
+    "JEFF KOONS: UN RETRATO PRIVADO": {
+        "image_url": "https://www.cinesabc.com/files/jeff_fvbl8e9v.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -239,8 +109,175 @@
             }
         ]
     },
-    "EMILIA PÉREZ": {
-        "image_url": "https://www.cinesabc.com/files/emilia_9gzgf3t3.jpg",
+    "LA FLOR DEL BURITÍ": {
+        "image_url": "https://www.cinesabc.com/files/buruti_5gpjzasj.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "LOS RESTOS DEL PASAR": {
+        "image_url": "https://www.cinesabc.com/files/restos_bueno_7wks4lje.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "OSARIO NORTE, LOS ÚLTIMOS DÍAS DE SAN VALENTÍN": {
+        "image_url": "https://www.cinesabc.com/files/osario_iqmtyjjt.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "QUIEN ES QUIEN?": {
+        "image_url": "https://www.cinesabc.com/files/quien_g72kwxy5.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "16:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/57553/"
+                    },
+                    {
+                        "time": "18:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/57554/"
+                    },
+                    {
+                        "time": "20:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/57555/"
+                    },
+                    {
+                        "time": "22:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/57556/"
+                    }
+                ]
+            }
+        ]
+    },
+    "SOLO LEVELING: REAWAKENING": {
+        "image_url": "https://www.cinesabc.com/files/leveling_xdqv22n2.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "18:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/solo-leveling-reawakening/57568/"
+                    }
+                ]
+            }
+        ]
+    },
+    "SUMARIO 3/94": {
+        "image_url": "https://www.cinesabc.com/files/sumario_bjzf25d0.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "SUPERKLAUS": {
+        "image_url": "https://www.cinesabc.com/files/superklaus_dund09vy.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "16:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/superklaus/57571/"
+                    },
+                    {
+                        "time": "17:50",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/superklaus/57572/"
+                    }
+                ]
+            }
+        ]
+    },
+    "AMAL": {
+        "image_url": "https://www.cinesabc.com/files/amal_rosebud_zo19y1wj.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "BIRD": {
+        "image_url": "https://www.cinesabc.com/files/bird_s7qth4lq.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "DESMONTANDO A LUCÍA": {
+        "image_url": "https://www.cinesabc.com/files/desmontando_1x5jgru4.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "16:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/desmontando-a-lucia/57581/"
+                    }
+                ]
+            }
+        ]
+    },
+    "EL MINISTRO DE PROPAGANDA": {
+        "image_url": "https://www.cinesabc.com/files/ministro_2dews36l.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "EL ORO VERDE - CLUB ROSEBUD": {
+        "image_url": "https://www.cinesabc.com/files/oro_rosebud_c350wx09.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "EL ORO VERDE - V.O.S.E.- CLUB ROSEBUD": {
+        "image_url": "https://www.cinesabc.com/files/oro_rosebud_9uxnf5n9.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "EL SEÑOR DE LOS ANILLOS: LA GUERRA DE LOS ROHIRRIM - V.O.S.E.-": {
+        "image_url": "https://www.cinesabc.com/files/senor_anillos_9ksabjpn.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "20:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/el-senor-de-los-anillos-la-guerra-de-los-rohirrim/57564/"
+                    }
+                ]
+            }
+        ]
+    },
+    "EL VIGILANTE NOCTURNO: DEMONIOS HEREDADOS": {
+        "image_url": "https://www.cinesabc.com/files/vigilante_bkljjzo0.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -273,31 +310,18 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57351/"
+                        "time": "16:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57546/"
                     },
                     {
-                        "time": "18:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57352/"
-                    },
-                    {
-                        "time": "20:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57479/"
+                        "time": "19:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57547/"
                     },
                     {
                         "time": "22:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57353/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/57548/"
                     }
                 ]
-            }
-        ]
-    },
-    "HERE (AQUÍ)": {
-        "image_url": "https://www.cinesabc.com/files/here_aqui_6rp3k5mk.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
             }
         ]
     },
@@ -312,15 +336,6 @@
     },
     "JURADO Nº 2": {
         "image_url": "https://www.cinesabc.com/files/jurado_iro4vo5k.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": []
-            }
-        ]
-    },
-    "LA FLOR DEL BURITÍ": {
-        "image_url": "https://www.cinesabc.com/files/buruti_5gpjzasj.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -349,12 +364,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-infiltrada/57370/"
-                    },
-                    {
-                        "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-infiltrada/57371/"
+                        "time": "20:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-infiltrada/57565/"
                     }
                 ]
             }
@@ -367,8 +378,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "19:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-sustancia/57413/"
+                        "time": "21:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/la-sustancia/57573/"
                     }
                 ]
             }
@@ -410,21 +421,25 @@
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "22:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nunca-te-sueltes/57485/"
-                    }
-                ]
+                "times": []
             }
         ]
     },
-    "QUIEN ES QUIEN?": {
-        "image_url": "https://www.cinesabc.com/files/quien_g72kwxy5.jpg",
+    "PIDEME LO QUE QUIERAS": {
+        "image_url": "https://www.cinesabc.com/files/pideme_bueno_hmfm4zu2.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
-                "times": []
+                "times": [
+                    {
+                        "time": "20:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57558/"
+                    },
+                    {
+                        "time": "22:35",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/pideme-lo-que-quieras/57559/"
+                    }
+                ]
             }
         ]
     },
@@ -445,19 +460,11 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57502/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57557/"
                     },
                     {
-                        "time": "18:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57503/"
-                    },
-                    {
-                        "time": "20:20",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57431/"
-                    },
-                    {
-                        "time": "22:35",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57389/"
+                        "time": "18:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/red-one/57563/"
                     }
                 ]
             }
@@ -471,32 +478,23 @@
                 "times": [
                     {
                         "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/robot-salvaje/57407/"
-                    },
-                    {
-                        "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/robot-salvaje/57383/"
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/robot-salvaje/57561/"
                     }
                 ]
+            }
+        ]
+    },
+    "SANTIAGO: UN CAMINO ESPIRITUAL": {
+        "image_url": "https://www.cinesabc.com/files/santiago_jl8rs3kl.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
             }
         ]
     },
     "SMILE 2": {
         "image_url": "https://www.cinesabc.com/files/smile2_bueno_efn6gfxk.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "22:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/smile-2/57419/"
-                    }
-                ]
-            }
-        ]
-    },
-    "SUMARIO 3/94": {
-        "image_url": "https://www.cinesabc.com/files/sumario_bjzf25d0.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
@@ -513,6 +511,45 @@
             }
         ]
     },
+    "UN VIAJE EN PRIMAVERA": {
+        "image_url": "https://www.cinesabc.com/files/viaje_primavera_8vlprhlz.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "VAIANA 2": {
+        "image_url": "https://www.cinesabc.com/files/vaiana_4dxagq06.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "16:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57549/"
+                    },
+                    {
+                        "time": "17:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57545/"
+                    },
+                    {
+                        "time": "18:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57550/"
+                    },
+                    {
+                        "time": "20:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57551/"
+                    },
+                    {
+                        "time": "22:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/57552/"
+                    }
+                ]
+            }
+        ]
+    },
     "VENOM: EL ULTIMO BAILE": {
         "image_url": "https://www.cinesabc.com/files/venom_1o9zacm6.jpg",
         "cinemas": [
@@ -520,8 +557,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "22:45",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/venom-el-ultimo-baile/57359/"
+                        "time": "22:40",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/venom-el-ultimo-baile/57562/"
                     }
                 ]
             }
@@ -534,20 +571,12 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57321/"
+                        "time": "18:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57574/"
                     },
                     {
-                        "time": "17:25",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57437/"
-                    },
-                    {
-                        "time": "19:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57322/"
-                    },
-                    {
-                        "time": "22:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57323/"
+                        "time": "21:40",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/57544/"
                     }
                 ]
             }
@@ -555,6 +584,15 @@
     },
     "WICKED - V.O.S.E.-": {
         "image_url": "https://www.cinesabc.com/files/wicked_bueno_ys9fjb3l.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": []
+            }
+        ]
+    },
+    "WINNIE THE POOH: EL BOSQUE SANGRIENTO": {
+        "image_url": "https://www.cinesabc.com/files/winnie_kcp1b7xf.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
