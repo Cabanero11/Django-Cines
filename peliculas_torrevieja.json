@@ -4,6 +4,20 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "22:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "Royal Opera House: La cenicienta": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_60d540f74a1235ae44b19b18b3a01d47.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
                 "times": []
             }
         ]
@@ -19,7 +33,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "22:00",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -89,12 +103,7 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "22:15",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
+                "times": []
             }
         ]
     },
