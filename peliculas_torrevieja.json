@@ -1,6 +1,15 @@
 {
-    "¿Quién es quién?": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_899a6a383aa2c6ed78bac2ba0d833186.jpg",
+    "Pushpa 2 (VO)": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_f840666d39510f2fcbfd6405b71d1086.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": []
+            }
+        ]
+    },
+    "La maldición del Queen Mary": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_31bb68a49cda0357855dc63026971608.jpg",
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
@@ -10,7 +19,51 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
+                        "time": "22:15",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "Kraven the Hunter": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_07fd3ee70ebb7a09f74c80a45ae52564.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "(VO: 17:00)",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "17:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "19:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "20:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
                         "time": "22:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "¿Quién es quién?": {
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_899a6a383aa2c6ed78bac2ba0d833186.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -22,12 +75,7 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "(VO: 20:00)",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
+                "times": []
             }
         ]
     },
@@ -38,15 +86,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:00",
+                        "time": "21:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -64,7 +104,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "19:45",
+                        "time": "20:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
@@ -80,12 +120,7 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "22:15",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
+                "times": []
             }
         ]
     },
@@ -96,11 +131,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "19:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:00",
+                        "time": "20:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -113,14 +144,6 @@
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
-                    {
-                        "time": "(VO: 17:00)",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
                     {
                         "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
@@ -136,7 +159,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:00",
+                        "time": "17:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -166,7 +189,7 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "21:30",
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -180,15 +203,15 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:00",
+                        "time": "(VO: 17:00)",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "19:00",
+                        "time": "19:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "22:00",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
