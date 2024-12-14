@@ -4,7 +4,12 @@
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
-                "times": []
+                "times": [
+                    {
+                        "time": "(VO INDIA: 22:00)",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
             }
         ]
     },
@@ -70,15 +75,6 @@
             }
         ]
     },
-    "Solo Leveling: ReAwakening": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_c057159989f81873010a2d0fabee6e0c.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "El señor de los anillos: La guerra de los Rohirrim": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_7e72e85f8fdf04d6e479e82173aad6ae.jpg",
         "cinemas": [
@@ -106,21 +102,8 @@
                     {
                         "time": "20:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Winnie the Pooh 2: El bosque sangriento": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_d9b740a02293f958b4cec7d3e2d16ea8.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
@@ -144,6 +127,10 @@
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
+                    {
+                        "time": "(VO: 19:00)",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
                     {
                         "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
