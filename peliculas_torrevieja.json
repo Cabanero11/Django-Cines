@@ -122,15 +122,6 @@
             }
         ]
     },
-    "El señor de los anillos: La guerra de los Rohirrim": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_7e72e85f8fdf04d6e479e82173aad6ae.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
-            }
-        ]
-    },
     "Al otro barrio": {
         "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_174eabf4fffa93c24b2b79ab159c83c6.jpg",
         "cinemas": [
@@ -170,15 +161,6 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
-            }
-        ]
-    },
-    "Red One": {
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_3732462fddecd68a561554726aa8c3e1.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": []
             }
         ]
     },
