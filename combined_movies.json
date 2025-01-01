@@ -1,48 +1,56 @@
 {
-    "ohcanadá": {
-        "title": "Oh, Canadá",
-        "image_url": "https://www.cinesabc.com/files/canada_qz8cvio6.jpg",
+    "absolución": {
+        "title": "Absolución",
+        "image_url": "https://www.cinesabc.com/files/absolucion_0ziogcql.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/oh-canada/58681/"
-                    }
-                ]
-            }
-        ]
-    },
-    "parthenope": {
-        "title": "Parthenope",
-        "image_url": "https://www.cinesabc.com/files/parthenope_8mkx6anv.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "16:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/parthenope/58686/"
-                    }
-                ]
-            }
-        ]
-    },
-    "sininstrucciones": {
-        "title": "Sin Instrucciones",
-        "image_url": "https://www.cinesabc.com/files/instrucciones_omhlljy1.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sin-instrucciones/58692/"
+                        "time": "20:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/absolucion/58719/"
                     },
                     {
-                        "time": "18:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sin-instrucciones/58693/"
+                        "time": "22:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/absolucion/58707/"
+                    }
+                ]
+            }
+        ]
+    },
+    "betterman": {
+        "title": "Better Man",
+        "image_url": "https://www.cinesabc.com/files/better_zxr1jkkj.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "19:40",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/better-man/58724/"
+                    },
+                    {
+                        "time": "22:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/better-man/58725/"
+                    }
+                ]
+            }
+        ]
+    },
+    "heretic": {
+        "title": "Heretic",
+        "image_url": "https://www.cinesabc.com/files/Heretic_nt9v6f5p.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "20:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/heretic-hereje/58721/"
+                    },
+                    {
+                        "time": "22:25",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/heretic-hereje/58722/"
                     }
                 ]
             },
@@ -50,11 +58,11 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:30",
+                        "time": "(VO: 17:00)",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "19:45",
+                        "time": "19:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
@@ -65,24 +73,54 @@
             }
         ]
     },
-    "sonic3lapelícula": {
-        "title": "Sonic 3: La Película",
-        "image_url": "https://www.cinesabc.com/files/sonic3_bqw8y54a.jpg",
+    "queer": {
+        "title": "Queer",
+        "image_url": "https://www.cinesabc.com/files/queer_bueno_e3zdd82s.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58682/"
+                        "time": "19:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/queer/58708/"
+                    }
+                ]
+            }
+        ]
+    },
+    "unanavidadsinnieve": {
+        "title": "Una Navidad Sin Nieve",
+        "image_url": "https://www.cinesabc.com/files/navidad_sin_nieve_7v3767v5.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "17:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/una-navidad-sin-nieve/58728/"
+                    }
+                ]
+            }
+        ]
+    },
+    "vivirelmomento": {
+        "title": "Vivir El Momento",
+        "image_url": "https://www.cinesabc.com/files/vivir_63x8jxoh.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "17:45",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vivir-el-momento/58699/"
                     },
                     {
-                        "time": "17:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58694/"
+                        "time": "20:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vivir-el-momento/58715/"
                     },
                     {
-                        "time": "18:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58683/"
+                        "time": "22:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vivir-el-momento/58702/"
                     }
                 ]
             },
@@ -94,16 +132,27 @@
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "19:15",
+                        "time": "19:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     },
                     {
-                        "time": "21:30",
+                        "time": "22:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
+                    }
+                ]
+            }
+        ]
+    },
+    "2queervose": {
+        "title": "2. Queer - V.O.S.E.-",
+        "image_url": "https://www.cinesabc.com/files/queer_bueno_wufdl1fj.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
                     {
-                        "time": "22:15",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                        "time": "22:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/queer/58709/"
                     }
                 ]
             }
@@ -117,8 +166,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "17:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/conclave/58690/"
+                        "time": "18:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/conclave/58714/"
                     }
                 ]
             },
@@ -126,23 +175,8 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "19:15",
+                        "time": "17:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    }
-                ]
-            }
-        ]
-    },
-    "cuandocaeelotoño": {
-        "title": "Cuando Cae El Otoño",
-        "image_url": "https://www.cinesabc.com/files/otono_sfm8meic.jpg",
-        "cinemas": [
-            {
-                "cinema_name": "Cine ABC Elx",
-                "times": [
-                    {
-                        "time": "17:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/cuando-cae-el-otono/58680/"
                     }
                 ]
             }
@@ -156,8 +190,12 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:35",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/58695/"
+                        "time": "19:10",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/58726/"
+                    },
+                    {
+                        "time": "22:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/gladiator-ii/58727/"
                     }
                 ]
             },
@@ -180,8 +218,8 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "17:50",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/kraven-the-hunter/58687/"
+                        "time": "22:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/kraven-the-hunter/58711/"
                     }
                 ]
             },
@@ -189,7 +227,7 @@
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "21:30",
+                        "time": "22:15",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -219,22 +257,22 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mufasa-the-lion-king/58685/"
+                        "time": "18:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mufasa-the-lion-king/58705/"
                     },
                     {
-                        "time": "17:55",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mufasa-the-lion-king/58679/"
+                        "time": "20:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mufasa-the-lion-king/58706/"
+                    },
+                    {
+                        "time": "22:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/mufasa-the-lion-king/58698/"
                     }
                 ]
             },
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
-                    {
-                        "time": "(VO: 17:45)",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
                     {
                         "time": "17:00",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
@@ -255,6 +293,42 @@
             }
         ]
     },
+    "nosferatu": {
+        "title": "Nosferatu",
+        "image_url": "https://www.cinesabc.com/files/nosferatu_28glffuk.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "17:00",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nosferatu/58710/"
+                    },
+                    {
+                        "time": "19:50",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nosferatu/58700/"
+                    },
+                    {
+                        "time": "22:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/nosferatu/58701/"
+                    }
+                ]
+            },
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "19:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "22:00",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
     "quienesquien": {
         "title": "Quien Es Quien?",
         "image_url": "https://www.cinesabc.com/files/quien_g72kwxy5.jpg",
@@ -263,32 +337,27 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/58689/"
-                    }
-                ]
-            },
-            {
-                "cinema_name": "IMF Torrevieja",
-                "times": [
-                    {
-                        "time": "17:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                        "time": "17:50",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/quien-es-quien/58723/"
                     }
                 ]
             }
         ]
     },
-    "unlíodemillones": {
-        "title": "Un Lío De Millones",
-        "image_url": "https://www.cinesabc.com/files/lio_4jwx5o6g.jpg",
+    "sininstrucciones": {
+        "title": "Sin Instrucciones",
+        "image_url": "https://www.cinesabc.com/files/instrucciones_omhlljy1.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:05",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/un-lio-de-millones/58688/"
+                        "time": "18:10",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sin-instrucciones/58720/"
+                    },
+                    {
+                        "time": "22:30",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sin-instrucciones/58716/"
                     }
                 ]
             },
@@ -301,6 +370,50 @@
                     },
                     {
                         "time": "19:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    }
+                ]
+            }
+        ]
+    },
+    "sonic3lapelícula": {
+        "title": "Sonic 3: La Película",
+        "image_url": "https://www.cinesabc.com/files/sonic3_bqw8y54a.jpg",
+        "cinemas": [
+            {
+                "cinema_name": "Cine ABC Elx",
+                "times": [
+                    {
+                        "time": "17:05",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58712/"
+                    },
+                    {
+                        "time": "18:10",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58703/"
+                    },
+                    {
+                        "time": "19:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58713/"
+                    },
+                    {
+                        "time": "20:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/sonic-3-la-pelicula/58704/"
+                    }
+                ]
+            },
+            {
+                "cinema_name": "IMF Torrevieja",
+                "times": [
+                    {
+                        "time": "17:15",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "19:30",
+                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
+                    },
+                    {
+                        "time": "21:45",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
@@ -315,12 +428,12 @@
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:00",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/58678/"
+                        "time": "18:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/58696/"
                     },
                     {
-                        "time": "18:15",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/58684/"
+                        "time": "20:20",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/vaiana-2/58697/"
                     }
                 ]
             },
@@ -339,47 +452,45 @@
             }
         ]
     },
-    "wicked": {
-        "title": "Wicked",
-        "image_url": "https://www.cinesabc.com/files/wicked_bueno_otnt1tz7.jpg",
+    "wickedsingalong": {
+        "title": "Wicked Sing-Along",
+        "image_url": "https://www.cinesabc.com/files/wicked_sing_h1gyfcu7.jpg",
         "cinemas": [
             {
                 "cinema_name": "Cine ABC Elx",
                 "times": [
                     {
-                        "time": "16:30",
-                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked/58691/"
+                        "time": "17:15",
+                        "ticket_url": "https://www.reservaentradas.com/entrada/elche/abcelx/wicked-sing-along/58718/"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    "unlíodemillones": {
+        "title": "Un Lío De Millones",
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_1f01d7989a8373cd69413323431b71f7.jpg",
+        "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "21:30",
+                        "time": "17:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
             }
         ]
     },
-    "nosferatu": {
-        "title": "Nosferatu",
-        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_2300cf7b2c0389fd9a6f283aacc68846.jpg",
+    "wicked": {
+        "title": "Wicked",
+        "image_url": "https://cinesimf.com/uploads/peliculas/resized/200_309ce9947bf2b967e411ff292a32974f.jpg",
         "cinemas": [
             {
                 "cinema_name": "IMF Torrevieja",
                 "times": [
                     {
-                        "time": "17:00",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "19:30",
-                        "ticket_url": "https://cinesimf.com/es/banners/link/16"
-                    },
-                    {
-                        "time": "22:00",
+                        "time": "21:30",
                         "ticket_url": "https://cinesimf.com/es/banners/link/16"
                     }
                 ]
